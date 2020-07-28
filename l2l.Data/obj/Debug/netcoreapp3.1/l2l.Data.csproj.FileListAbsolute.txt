@@ -1,0 +1,12 @@
+D:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\l2l.Data.deps.json
+D:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\l2l.Data.dll
+D:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\l2l.Data.pdb
+D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.csprojAssemblyReference.cache
+D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.AssemblyInfoInputs.cache
+D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.AssemblyInfo.cs
+D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.csproj.CoreCompileInputs.cache
+D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.dll
+D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.pdb
+D:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\l2l.Data.runtimeconfig.json
+D:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\l2l.Data.runtimeconfig.dev.json
+D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.genruntimeconfig.cache
