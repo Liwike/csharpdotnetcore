@@ -36,5 +36,17 @@ namespace l2l.Data.Tests
             //Assert.Equal(course, result);
             result.Should().BeEquivalentTo(course);
         }
+
+        public void CourseRepoTests_ExitsingCoursesdShouldAppearInRepo()
+        {
+            //Arrange
+            var sut = new CourseRepository();
+            var course = new Course { Id = 1, Name = "Teszt kurzus" };
+            sut.Add(course);
+            //act
+            var result = sut.GetById(course.Id);
+            //assert
+
+        }
     }
 }

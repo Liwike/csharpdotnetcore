@@ -6,7 +6,7 @@ namespace l2l.Data.Repo
 {
 public class CourseRepository
     {
-        private readonly L2LDbContext db;
+        private readonly L2LDbContext db;  //csa a kostruktorban kaphat értéket
 
         public CourseRepository()
         {
