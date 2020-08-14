@@ -23,13 +23,14 @@ public class CourseRepository
 
         public void Add(Course course)
         {
-            //TODO: Async
+            //TODO: Async legyen!
             db.Courses.Add(course);
         }
 
         public Course GetById(int Id)
         {
-            //TODO: Async
+            //TODO: Async legyen!
+            //db.Courses.FindAsync/
             return db.Courses.Find(Id);
         }
 
@@ -42,7 +43,7 @@ public class CourseRepository
         public void Remove(Course course)
         {
             //TODO: return with void?
-            db.Courses.Remove(course);
+            db.Courses.Remove(course);  //Ez hibára megy!
         }
     }
 

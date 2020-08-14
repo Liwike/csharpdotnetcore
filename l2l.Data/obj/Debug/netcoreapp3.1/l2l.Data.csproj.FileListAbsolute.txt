@@ -10,3 +10,4 @@ D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.pdb
 D:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\l2l.Data.runtimeconfig.json
 D:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\l2l.Data.runtimeconfig.dev.json
 D:\Liwi\csharp\l2lenyim\l2l.Data\obj\Debug\netcoreapp3.1\l2l.Data.genruntimeconfig.cache
+d:\Liwi\csharp\l2lenyim\l2l.Data\bin\Debug\netcoreapp3.1\appsettings.json
